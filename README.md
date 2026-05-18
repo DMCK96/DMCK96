@@ -50,5 +50,5 @@ Self-hosted gaming community infrastructure running on a Hetzner root server. Se
 ## A bit more about me
 
 - Based in **Liverpool, UK**
-- Neurodivergent (autism + ADHD) — I tend to hyperfocus hard on interesting problems and build things end-to-end before moving on
+- Neurodivergent (autism + ADHD) — I tend to hyperfocus hard on complex problems, deep dive into them and build POCs. My special interests are gaming, software development, and dry herb vaporizers.
 - I run game servers for fun and have done for years; the line between hobby and side project is blurry.
