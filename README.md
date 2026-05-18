@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋
 
-I'm a software engineer specialising in **event-driven microservice architecture**.I design distributed systems around asynchronous messaging, bounded contexts, and domain events rather than direct coupling. I care about building services that are independently deployable, resilient to failure, and performant at scale.
+I'm a software engineer specialising in **event-driven microservice architecture**. I design distributed systems around asynchronous messaging, bounded contexts, and domain events rather than direct coupling. I care about building services that are independently deployable, resilient to failure, and performant at scale.
 
 Day-to-day I work in ed-tech, leading integration architecture and data pipeline work for student information systems. Outside of that I'm usually building something that scratches an itch: Electron desktop apps, game server tooling, self-hosted infrastructure, or SaaS ideas I want to validate quickly.
 
